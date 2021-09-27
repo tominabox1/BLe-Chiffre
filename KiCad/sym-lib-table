@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LeChiffreBLE-rescue)(type Legacy)(uri ${KIPRJMOD}/LeChiffreBLE-rescue.lib)(options "")(descr ""))
+  (lib (name LeChiffreBLE_Single_Side-rescue)(type Legacy)(uri ${KIPRJMOD}/LeChiffreBLE_Single_Side-rescue.lib)(options "")(descr ""))
+)

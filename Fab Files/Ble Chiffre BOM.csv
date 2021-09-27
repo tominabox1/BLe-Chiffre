@@ -1,0 +1,22 @@
+Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+,BAT-HLD-001-THM-BAT-HLD-001-THM,BT1,BAT-HLD-001-THM,BAT_BAT-HLD-001-THM,1,https://www.digikey.com/en/products/detail/linx-technologies-inc/BAT-HLD-001-THM/3044009
+"Unpolarized capacitor, small symbol",C_Small,C1,4.7nF,C_0603_1608Metric,1,~
+"Unpolarized capacitor, small symbol",C_Small,C2 C3 C4,10uF,C_0603_1608Metric,3,~
+"40V 1A Schottky Barrier Rectifier Diode, DO-41",1N5819,D35,1N5819,D_SOD-123,1,https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_TWGMC-1N5819W_C727115.html
+"Light emitting diode, small symbol",LED_Small,D36,Orange,LED_0603_1608Metric,1,~
+"Diode, small symbol",D_Small,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34,D_Small,D_SOD-123,34,~
+,USB_C_Receptacle_USB2.0-Connector-LeChiffreBLE-rescue,J1,USB_C_Receptacle_USB2.0,HRO_TYPE-C-31-M-12,1,https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html
+"P-MOSFET transistor, source/gate/drain",Q_PMOS_SGD,Q1 Q2,AP3407,SOT-23,2,https://www.lcsc.com/product-detail/MOSFETs_ALLPOWER-ShenZhen-Quan-Li-Semiconductor-AP3407_C353080.html
+"Resistor, small symbol",R_Small,R7,1k,R_0603_1608Metric,1,~
+"Resistor, small symbol",R_Small,R5 R6,2.2k,R_0603_1608Metric,2,~
+"Resistor, small symbol",R_Small,R8,4.7k,R_0603_1608Metric,1,~
+"Resistor, small symbol",R_Small,R1 R2,5.1k,R_0603_1608Metric,2,~
+"Resistor, small symbol",R_Small,R4,100k,R_0603_1608Metric,1,~
+"Resistor, small symbol",R_Small,R101,806K,R_0603_1608Metric,1,~
+"Resistor, small symbol",R_Small,R3,1M,R_0603_1608Metric,1,~
+"Resistor, small symbol",R_Small,R102 R103,2M,R_0603_1608Metric,2,~
+"Momentary Switch, single pole double throw",SW_Push_SPDT,SW1,MSK-12C02,SW_SPDT_PCM12,1,~
+"Push button switch, generic, two pins",SKQGAFE010,SW2,SW_Push,SW_SPST_TL3342,1,https://www.mouser.com/ProductDetail/Alps-Alpine/SKQGAFE010?qs=N5Jky1br14NfR%252BVUVAoP9A%3D%3D
+,AP2112K-3.3-Regulator_Linear-LeChiffreBLE-rescue,U2,AP2112K-3.3,SOT-23-5,1,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+"Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package",MCP73831-2-OT,U3,MCP73831-2-OT,SOT-23-5,1,https://www.lcsc.com/product-detail/Battery-Management-ICs_Microchip-Tech-MCP73831T-2ACI-OT_C424093.html
+Bluetooth module,18010,U101,Holyiot 18010,Module_Extra:Holyiot_18010,1,https://www.aliexpress.com/item/32868002366.html?spm=a2g0s.9042311.0.0.27cf4c4dVFuyIS

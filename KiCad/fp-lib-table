@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lechiffre)(type KiCad)(uri "/Users/tjcampie/Documents/Keyboards/KiCad Libraries")(options "")(descr ""))
+  (lib (name "Le Chiffre LP_stable")(type KiCad)(uri "/Users/tjcampie/Dropbox/keyboard projects/Le Chiffre LP_stable")(options "")(descr ""))
+)
